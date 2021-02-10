@@ -1,4 +1,4 @@
-# Self Study content to be completed by all students before the first class
+## Self Study content to be completed by all students before the first class
 
 # Please come with questions on specific topics
 
